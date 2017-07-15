@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M03_2RuntimeChanges</string>
+    <string name="hello_world">Hello!</string>
+    <string name="button_label">0</string>
+    <string name="saved_count">%1$d</string>
+    <string name="unsaved_count">%1$d</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M03_2실시간설정변경</string>
+    <string name="hello_world">안녕하세요!</string>
+    <string name="button_label">0</string>
+    <string name="saved_count">%1$d</string>
+    <string name="unsaved_count">%1$d</string>
+</resources>
